@@ -1,7 +1,6 @@
 .DS_Store
 node_modules
 /dist
-src/main/resources/application.properties
 
 
 # local env files
